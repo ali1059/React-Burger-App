@@ -1,4 +1,6 @@
-import React from 'react';
+3 
+++
+.0import React from 'react';
 import ReactDOM from 'react-dom';
 import App from './App';
 

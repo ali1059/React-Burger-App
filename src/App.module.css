@@ -1,12 +1,16 @@
+.body{
+
+}
+
 .App {
   text-align: center;
 }
 
-.App-logo {
+.App_logo {
   height: 40vmin;
 }
 
-.App-header {
+.App_header {
   background-color: #282c34;
   min-height: 100vh;
   display: flex;
